@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T07:23:47.171Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="z5y_EGESurxBpkT2Fu_f" version="13.6.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-08-15T07:29:08.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="0WkGvyEHpjo9yS9ddONg" version="13.6.2" type="github" pages="8">
   <diagram id="EBp0xJAK23uzrolwN422" name="Physical Data Model">
     <mxGraphModel dx="4913" dy="6511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3650,6 +3650,67 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="580" y="260" as="sourcePoint" />
             <mxPoint x="670" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PnfxjZ7cUyHWtOKGe9jD-0" value="&lt;font style=&quot;font-size: 39px&quot;&gt;COMPONENT DIAGRAM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_o9lNc3w4VmSQDIskXjG-1">
+          <mxGeometry x="460" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Mxa8XA7fRLxwGgiqJ8JV" name="Pemodelan Arsitektur Deployment Diagram">
+    <mxGraphModel dx="924" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="pQgXtzKSC4C7PAuQWOVG-0" />
+        <mxCell id="pQgXtzKSC4C7PAuQWOVG-1" parent="pQgXtzKSC4C7PAuQWOVG-0" />
+        <mxCell id="vikVfRacPsApon9lRjsm-0" value="&lt;span style=&quot;font-size: 39px&quot;&gt;DEPLOYMENT DIAGRAM&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pQgXtzKSC4C7PAuQWOVG-1">
+          <mxGeometry x="460" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-4" value="" style="group" vertex="1" connectable="0" parent="pQgXtzKSC4C7PAuQWOVG-1">
+          <mxGeometry x="140" y="360" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-1" value="Aplikasi pencetakan &lt;br&gt;transkrip wisuda" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="vikVfRacPsApon9lRjsm-4">
+          <mxGeometry width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-2" value="Website" style="html=1;dropTarget=0;" vertex="1" parent="vikVfRacPsApon9lRjsm-4">
+          <mxGeometry x="70" y="57.5" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-3" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vikVfRacPsApon9lRjsm-2">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-6" value="Database MySQL" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="pQgXtzKSC4C7PAuQWOVG-1">
+          <mxGeometry x="520" y="170" width="270" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-7" value="MySQL&amp;nbsp;" style="html=1;dropTarget=0;" vertex="1" parent="pQgXtzKSC4C7PAuQWOVG-1">
+          <mxGeometry x="590" y="210" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-8" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vikVfRacPsApon9lRjsm-7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-10" value="ODBC Driver" style="html=1;dropTarget=0;" vertex="1" parent="pQgXtzKSC4C7PAuQWOVG-1">
+          <mxGeometry x="590" y="300" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-11" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vikVfRacPsApon9lRjsm-10">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-12" value="" style="group" vertex="1" connectable="0" parent="pQgXtzKSC4C7PAuQWOVG-1">
+          <mxGeometry x="530" y="480" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-13" value="Microsoft Excel" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="vikVfRacPsApon9lRjsm-12">
+          <mxGeometry width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-14" value="Excel Converter" style="html=1;dropTarget=0;" vertex="1" parent="vikVfRacPsApon9lRjsm-12">
+          <mxGeometry x="70" y="57.5" width="130" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-15" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="vikVfRacPsApon9lRjsm-14">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
