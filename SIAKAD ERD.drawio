@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T07:31:16.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="O0vTlxj7Sk_yxQib8L_S" version="13.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-08-15T07:34:17.046Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="xpB-E6A7kTreGKqX05mI" version="13.6.2" type="github" pages="8">
   <diagram id="EBp0xJAK23uzrolwN422" name="Physical Data Model">
     <mxGraphModel dx="4913" dy="6511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3578,7 +3578,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="01p-to_mIaANOlW1SihF" name="Pemodelan Arsitektur - Component Diagram">
-    <mxGraphModel dx="544" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3555" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="_o9lNc3w4VmSQDIskXjG-0" />
         <mxCell id="_o9lNc3w4VmSQDIskXjG-1" parent="_o9lNc3w4VmSQDIskXjG-0" />
@@ -3653,18 +3653,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PnfxjZ7cUyHWtOKGe9jD-0" value="&lt;font style=&quot;font-size: 39px&quot;&gt;COMPONENT DIAGRAM&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_o9lNc3w4VmSQDIskXjG-1">
-          <mxGeometry x="460" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="405" y="80" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="Mxa8XA7fRLxwGgiqJ8JV" name="Pemodelan Arsitektur Deployment Diagram">
-    <mxGraphModel dx="924" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2844" dy="1478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pQgXtzKSC4C7PAuQWOVG-0" />
         <mxCell id="pQgXtzKSC4C7PAuQWOVG-1" parent="pQgXtzKSC4C7PAuQWOVG-0" />
         <mxCell id="vikVfRacPsApon9lRjsm-0" value="&lt;span style=&quot;font-size: 39px&quot;&gt;DEPLOYMENT DIAGRAM&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pQgXtzKSC4C7PAuQWOVG-1">
-          <mxGeometry x="460" y="80" width="40" height="20" as="geometry" />
+          <mxGeometry x="405" y="80" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vikVfRacPsApon9lRjsm-4" value="" style="group" vertex="1" connectable="0" parent="pQgXtzKSC4C7PAuQWOVG-1">
           <mxGeometry x="140" y="360" width="270" height="180" as="geometry" />
