@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T07:29:08.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="0WkGvyEHpjo9yS9ddONg" version="13.6.2" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-08-15T07:30:27.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="jYQyP8V3_n4fhNTJKmSQ" version="13.6.2" type="github" pages="8">
   <diagram id="EBp0xJAK23uzrolwN422" name="Physical Data Model">
     <mxGraphModel dx="4913" dy="6511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3712,6 +3712,12 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-17" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br&gt;" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="pQgXtzKSC4C7PAuQWOVG-1">
+          <mxGeometry x="185" y="640" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vikVfRacPsApon9lRjsm-18" value="Printer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pQgXtzKSC4C7PAuQWOVG-1">
+          <mxGeometry x="255" y="690" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
